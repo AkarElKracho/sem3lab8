@@ -1,0 +1,3 @@
+﻿  sem3lab8.cpp
+C:\Users\admin\source\repos\sem3lab8\sem3lab8\sem3lab8.cpp(368,23): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  sem3lab8.vcxproj -> C:\Users\admin\source\repos\sem3lab8\x64\Debug\sem3lab8.exe
